@@ -1,0 +1,50 @@
+{
+  "_from": "@nestjs-nodo/scheduler@3.33.5",
+  "_id": "@nestjs-nodo/scheduler@3.33.5",
+  "_inBundle": false,
+  "_integrity": "sha512-WeNXMEkfL14jPo4V2CyAAhKo7nqX2N7KvnQ/PCAh+sWF55hMTJ/KE0wN2gR76WDB47OHMYzsAI4jhp3nCW+6dA==",
+  "_location": "/@nestjs-nodo/scheduler",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@nestjs-nodo/scheduler@3.33.5",
+    "name": "@nestjs-nodo/scheduler",
+    "escapedName": "@nestjs-nodo%2fscheduler",
+    "scope": "@nestjs-nodo",
+    "rawSpec": "3.33.5",
+    "saveSpec": null,
+    "fetchSpec": "3.33.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://npm.nodo.cc/@nestjs-nodo%2fscheduler/-/scheduler-3.33.5.tgz",
+  "_shasum": "75b0b6956a2c39b25e3c82686a981b25cf5a9fbb",
+  "_spec": "@nestjs-nodo/scheduler@3.33.5",
+  "_where": "/home/user/Documents/Study/nodooooo",
+  "author": {
+    "name": "nodo.cc"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "### changelog",
+  "engines": {
+    "node": "v10.16.2"
+  },
+  "files": [
+    "lib",
+    "*.md"
+  ],
+  "gitHead": "96620f8538ec47cf68340b00f04880237ae8adfb",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "@nestjs-nodo/scheduler",
+  "repository": {
+    "type": "git",
+    "url": "code.nodo.cc:nestjs-nodo/core.git"
+  },
+  "types": "lib/index.d.ts",
+  "version": "3.33.5"
+}
